@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://hombreombre.github.io/order-summary-component---frontend-mentor/](https://hombreombre.github.io/order-summary-component---frontend-mentor/)
 
 ### Built with
 
